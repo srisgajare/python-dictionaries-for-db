@@ -1,0 +1,7 @@
+Part Number Part Name Part Price Part quantity
+248150 shelf_bracket 5.75 10056
+267801 wall_anchors 1.59 14400
+313131 wing_nuts 1.39 10430
+791047 screwdriver 8.97 250
+713456 hammer 26.59 72
+713457 hammer 23.99 89
